@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: foo
-        uses: actions/init-simulation-app@v1
+        uses: actions/init-simulation-app-action@v1
