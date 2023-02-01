@@ -14,5 +14,6 @@ jobs:
     name: maybe another job name
     steps:
       - name: init-simulation-site
-        uses: DevGrammo/init-simulation-app-action@v1
+        uses: DevGrammo/init-simulation-app-action@v1.1
+
 
